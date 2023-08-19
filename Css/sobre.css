@@ -1,0 +1,401 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.sobre,
+.sobre * {
+  box-sizing: border-box;
+}
+
+.sobre {
+  background: rgba(255, 255, 255, 0.98);
+  width: 1920px;
+  height: 2057px;
+  position: relative;
+}
+
+.body {
+  width: 1920px;
+  height: 1623px;
+  position: static;
+}
+
+.rectangle-20 {
+  background: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 20.83333283662796%,
+      rgba(253, 1, 101, 1) 100%);
+  width: 1920px;
+  height: 308px;
+  position: absolute;
+  left: 0px;
+  top: 146px;
+}
+
+.sobre-n-s {
+  color: #ffffff;
+  text-align: left;
+  font: 400 89.89px "Squada One", sans-serif;
+  position: absolute;
+  left: 817px;
+  top: 269px;
+  width: 578.72px;
+  height: 99.72px;
+}
+
+.bem-vindo-startup-da-tecnologia-estamos-transformando-o-mundo-dos-servi-os-de-desenvolvimento-de-sites-e-oferecendo-solu-es-acess-veis-e-de-alta-qualidade-acreditamos-no-poder-da-juventude-e-no-potencial-dos-estudantes-talentosos-nossa-abordagem-nica-ao-contratar-jovens-estudantes-como-freelancers-podemos-oferecer-servi-os-de-desenvolvimento-de-sites-excepcionais-a-pre-os-mais-acess-veis-combinamos-o-entusiasmo-e-a-criatividade-dos-jovens-talentos-com-a-expertise-e-o-apoio-da-nossa-equipe-experiente-sabemos-que-muitas-vezes-o-custo-um-fator-limitante-para-pequenas-empresas-e-empreendedores-individuais-quando-se-trata-de-criar-uma-presen-a-online-eficaz-por-isso-que-nos-dedicamos-a-oferecer-solu-es-de-site-personalizadas-e-econ-micas-sem-comprometer-a-qualidade-nossos-jovens-estudantes-s-o-apaixonados-por-tecnologia-e-est-o-atualizados-com-as-ltimas-tend-ncias-em-design-e-desenvolvimento-web-eles-est-o-prontos-para-criar-sites-modernos-responsivos-e-funcionais-que-ir-o-destacar-a-sua-marca-e-atrair-seu-p-blico-alvo {
+  color: #000000;
+  text-align: left;
+  font: 400 20.13px "Open Sans", sans-serif;
+  position: absolute;
+  left: 427.66px;
+  top: 715px;
+  width: 665.11px;
+  height: 742px;
+}
+
+.learn-bridge {
+  color: linear-gradient(90.13deg,
+      rgba(28, 1, 109, 1) 53.64583134651184%,
+      rgba(253, 1, 101, 1) 100%);
+  text-align: left;
+  font: 400 58.91px "Squada One", sans-serif;
+  position: absolute;
+  left: 436.6px;
+  top: 570px;
+  width: 360px;
+}
+
+.jovem-criativo {
+  border-radius: 155px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  width: 395.74px;
+  height: 310px;
+  position: absolute;
+  left: 1123.4px;
+  top: 640px;
+  box-shadow: 0px 0px 31px 1px rgba(0, 0, 0, 1);
+}
+
+.ellipse-2 {
+  background: rgba(28, 1, 109, 0.27);
+  border-radius: 50%;
+  width: 130.21px;
+  height: 102px;
+  position: absolute;
+  left: 1454.04px;
+  top: 655px;
+}
+
+.ellipse-1 {
+  background: rgba(28, 1, 109, 0.51);
+  border-radius: 50%;
+  width: 167.23px;
+  height: 131px;
+  position: absolute;
+  left: 1434.89px;
+  top: 640px;
+}
+
+.valores-acess-veis {
+  color: #000000;
+  text-align: left;
+  font: 400 20.13px "Open Sans", sans-serif;
+  position: absolute;
+  left: 427.66px;
+  top: 1596px;
+  width: 214.47px;
+}
+
+.alta-qualidade {
+  color: #000000;
+  text-align: left;
+  font: 400 20.13px "Open Sans", sans-serif;
+  position: absolute;
+  left: 898.72px;
+  top: 1596px;
+  width: 174.89px;
+}
+
+.responsivos {
+  color: #000000;
+  text-align: left;
+  font: 400 20.13px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1337.87px;
+  top: 1596px;
+  width: 149.36px;
+}
+
+.lampada-1 {
+  width: 111.06px;
+  height: 87px;
+  position: absolute;
+  left: 1462.98px;
+  top: 662px;
+}
+
+.header {
+  width: 1920px;
+  height: 146px;
+  position: static;
+}
+
+.header-container {
+  background: #ffffff;
+  width: 1920px;
+  height: 146px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.reclama-es {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1326.38px;
+  top: 66px;
+  width: 192.77px;
+  transition: transform 1s ease;
+
+}
+
+.contato {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1092.77px;
+  top: 66px;
+  width: 116.17px;
+  transition: transform 1s ease;
+
+}
+
+.contato:hover,
+.reclama-es:hover,
+.principal:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+
+}
+
+.logo-learn-bridge {
+  width: 70.21px;
+  height: 79px;
+  position: absolute;
+  left: 425.11px;
+  top: 34px;
+}
+
+.principal {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 594.89px;
+  top: 66px;
+  width: 190.21px;
+  height: 47px;
+  transition: transform 1s ease;
+
+}
+
+.sobre-n-s2 {
+  color: #fd0166;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 823.4px;
+  top: 66px;
+  width: 151.91px;
+}
+
+.design-constucao-site-1 {
+  width: 362px;
+  height: 316px;
+  position: absolute;
+  left: 1145px;
+  top: 1067px;
+}
+
+.certo-1 {
+  width: 119px;
+  height: 75px;
+  position: absolute;
+  left: 450px;
+  top: 1521px;
+}
+
+.certo-2 {
+  width: 119px;
+  height: 75px;
+  position: absolute;
+  left: 1321px;
+  top: 1521px;
+}
+
+.certo-3 {
+  width: 119px;
+  height: 75px;
+  position: absolute;
+  left: 887px;
+  top: 1521px;
+}
+
+.footer {
+  width: 1920px;
+  height: 325px;
+  position: static;
+}
+
+.container-footer {
+  background: linear-gradient(91.71deg,
+      rgba(34, 1, 136, 1) 45.79302966594696%,
+      rgba(253, 1, 101, 1) 100%);
+  width: 1920px;
+  height: 325px;
+  position: absolute;
+  left: 0px;
+  top: 1734px;
+}
+
+.copyright-2023-learn-bridge-todos-os-direitos-reservados {
+  color: #959595;
+  text-align: left;
+  font: 400 15.05px "Open Sans", sans-serif;
+  position: absolute;
+  left: 730.21px;
+  top: 2022.57px;
+  width: 556.6px;
+  height: 28.62px;
+}
+
+.logo-learn-bridge2 {
+  width: 130.21px;
+  height: 120.33px;
+  position: absolute;
+  left: 427.66px;
+  top: 1830.71px;
+}
+
+.footer-company {
+  width: 102.13px;
+  height: 115.83px;
+  position: static;
+}
+
+.company {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.32px "Open Sans", sans-serif;
+  position: absolute;
+  left: 651.06px;
+  top: 1829.59px;
+  width: 102.13px;
+  height: 24.74px;
+}
+
+.sobre-n-s3 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 656.17px;
+  top: 1921.8px;
+  width: 97.02px;
+  height: 23.62px;
+}
+
+.principal2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 656.17px;
+  top: 1879.07px;
+  width: 80.43px;
+  height: 23.62px;
+}
+
+.footer-termos {
+  width: 208.09px;
+  height: 121.45px;
+  position: static;
+}
+
+.termos {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.35px "Open Sans", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1823.97px;
+  width: 82.98px;
+  height: 24.74px;
+}
+
+.pol-tica-de-privacidade {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 958.72px;
+  top: 1879.07px;
+  width: 208.09px;
+  height: 23.62px;
+}
+
+.termos-e-condi-es {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 960px;
+  top: 1921.8px;
+  width: 185.11px;
+  height: 23.62px;
+}
+
+.footer-suporte {
+  width: 122.55px;
+  height: 121.45px;
+  position: static;
+}
+
+.suporte {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.35px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1312.34px;
+  top: 1823.97px;
+  width: 91.91px;
+  height: 24.74px;
+}
+
+.reclama-es2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1312.34px;
+  top: 1921.8px;
+  width: 121.28px;
+  height: 23.62px;
+}
+
+.contato2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1311.06px;
+  top: 1879.07px;
+  width: 74.04px;
+  height: 23.62px;
+}

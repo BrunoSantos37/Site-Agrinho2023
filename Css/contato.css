@@ -1,0 +1,487 @@
+.contatos,
+.contatos * {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contatos {
+    background: #ffffff;
+    width: 1920px;
+    height: 2077px;
+    position: relative;
+}
+
+.container {
+    width: 1920px;
+    height: 2285px;
+    position: static;
+}
+
+.footer {
+    width: 1920px;
+    height: 289px;
+    position: static;
+}
+
+.container-footer {
+    background: linear-gradient(91.71deg,
+            #220188 45.79302966594696%,
+            #fd0165 100%);
+    width: 1920px;
+    height: 289px;
+    position: absolute;
+    left: 0px;
+    top: 1996px;
+}
+
+.copyright-2023-learn-bridge-todos-os-direitos-reservados {
+    color: #959595;
+    text-align: left;
+    font: 400 15.05px "Open Sans", sans-serif;
+    position: absolute;
+    left: 730.21px;
+    top: 2252.6px;
+    width: 556.6px;
+    height: 25.45px;
+}
+
+.logo-learn-bridge {
+    width: 130.21px;
+    height: 107px;
+    position: absolute;
+    left: 427.66px;
+    top: 2082px;
+}
+
+.footer-company {
+    width: 102.13px;
+    height: 103px;
+    position: static;
+}
+
+.company {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.32px "Open Sans", sans-serif;
+    position: absolute;
+    left: 651.06px;
+    top: 2081px;
+    width: 102.13px;
+}
+
+.sobre-n-s {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 656.17px;
+    top: 2163px;
+    width: 97.02px;
+}
+
+.principal {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 656.17px;
+    top: 2125px;
+    width: 80.43px;
+}
+
+.footer-termos {
+    width: 208.09px;
+    height: 108px;
+    position: static;
+}
+
+.termos {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.35px "Open Sans", sans-serif;
+    position: absolute;
+    left: 960px;
+    top: 2076px;
+    width: 82.98px;
+}
+
+.pol-tica-de-privacidade {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 958.72px;
+    top: 2125px;
+    width: 208.09px;
+}
+
+.termos-e-condi-es {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 960px;
+    top: 2163px;
+    width: 185.11px;
+}
+
+.footer-suporte {
+    width: 122.55px;
+    height: 108px;
+    position: static;
+}
+
+.suporte {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.35px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1312.34px;
+    top: 2076px;
+    width: 91.91px;
+}
+
+.reclama-es {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1312.34px;
+    top: 2163px;
+    width: 121.28px;
+}
+
+.contato {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1311.06px;
+    top: 2125px;
+    width: 74.04px;
+}
+
+.email-learnebridge-gmail-com {
+    color: #000000;
+    text-align: left;
+    position: absolute;
+    left: 1101.7px;
+    top: 572px;
+    width: 395.39px;
+}
+
+.email-learnebridge-gmail-com-span {
+    color: #000000;
+    font: 600 22.98px "Open Sans", sans-serif;
+}
+
+.email-learnebridge-gmail-com-span2 {
+    color: #000000;
+    font: 400 20.44px "Open Sans", sans-serif;
+}
+
+.header {
+    width: 1920px;
+    height: 146px;
+    position: static;
+}
+
+.header-container {
+    background: #ffffff;
+    width: 1920px;
+    height: 146px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.reclama-es2 {
+    color: #000000;
+    text-align: left;
+    font: 400 24px "Inter", sans-serif;
+    position: absolute;
+    left: 1326.38px;
+    top: 66px;
+    width: 192.77px;
+    transition: transform 0.5s ease;
+}
+
+.contato2 {
+    color: #fd0165;
+    text-align: left;
+    font: 400 24px "Inter", sans-serif;
+    position: absolute;
+    left: 1092.77px;
+    top: 66px;
+    width: 116.17px;
+}
+
+.logo-learn-bridge2 {
+    width: 70.21px;
+    height: 79px;
+    position: absolute;
+    left: 425.11px;
+    top: 34px;
+}
+
+.principal2 {
+    color: #000000;
+    text-align: left;
+    font: 400 24px "Inter", sans-serif;
+    position: absolute;
+    left: 594.89px;
+    top: 66px;
+    width: 190.21px;
+    height: 47px;
+    transition: transform 0.5s ease;
+}
+
+.principal2:hover,
+.sobre-n-s2:hover,
+.reclama-es2:hover {
+    transform: scale(1.4, 1.4);
+}
+
+.sobre-n-s2 {
+    color: #000000;
+    text-align: left;
+    font: 400 24px "Inter", sans-serif;
+    position: absolute;
+    left: 823.4px;
+    top: 66px;
+    width: 151.91px;
+    transition: transform 0.5s ease;
+}
+
+.rectangle-45 {
+    background: linear-gradient(102.24deg,
+            #1c016d 0.9065140038728714%,
+            rgba(253, 1, 101, 1) 100%);
+    width: 1920px;
+    height: 463px;
+    position: absolute;
+    left: 0px;
+    top: 146px;
+}
+
+.rectangle-43 {
+    background: #ffffff;
+    border-radius: 57px;
+    width: 1092.77px;
+    height: 1676px;
+    position: absolute;
+    left: 428.94px;
+    top: 378px;
+    box-shadow: 1px 4px 46px -10px rgba(0, 0, 0, 1);
+}
+
+.rua-tal-n-y-bairro-z-cidade-chique-pr-brazil {
+    color: #000000;
+    text-align: left;
+    font: 700 22.65px "Open Sans", sans-serif;
+    position: absolute;
+    left: 619.15px;
+    top: 1377px;
+    width: 278.3px;
+}
+
+.contate-nos {
+    color: #ffffff;
+    text-align: left;
+    font: 400 65.6px "Squada One", sans-serif;
+    position: absolute;
+    left: 810.64px;
+    top: 241px;
+    width: 386.81px;
+}
+
+.btn-email {
+    width: 344.68px;
+    height: 60px;
+    position: static;
+}
+
+.rectangle-85 {
+    background: linear-gradient(#FD0165, #1C016D);
+    width: 344.68px;
+    height: 60px;
+    position: absolute;
+    left: 565.53px;
+    top: 556px;
+    border: none;
+    transition: transform 1s ease-in-out;
+
+}
+
+.rectangle-85:hover,
+.rectangle-852:hover {
+    background: linear-gradient(#1C016D, #FD0165);
+    transform: scale(1.3, 1.3);
+
+}
+
+.enviar-email {
+    color: #ffffff;
+    text-align: left;
+    font: 700 22.65px "Open Sans", sans-serif;
+    position: absolute;
+    left: 653.62px;
+    top: 570px;
+    width: 178.72px;
+
+}
+
+.rectangle-852 {
+    background: linear-gradient(#FD0165, #1C016D);
+    width: 344.68px;
+    height: 60px;
+    position: absolute;
+    left: 570.64px;
+    top: 754px;
+    border: none;
+    transition: transform 1s ease-in-out;
+
+}
+
+.enviar-mensagem {
+    color: #ffffff;
+    text-align: left;
+    font: 700 18.48px "Open Sans", sans-serif;
+    position: absolute;
+    left: 643.4px;
+    top: 771px;
+    width: 209.36px;
+}
+
+.informa-es {
+    color: #000000;
+    text-align: left;
+    font: 700 29.93px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1111.92px;
+    top: 462px;
+    width: 240px;
+}
+
+.btn-email2 {
+    width: 713.62px;
+    height: 331px;
+    position: static;
+}
+
+.rectangle-853 {
+    background: #d9d9d9;
+    border-radius: 22px;
+    width: 720px;
+    height: 350px;
+    position: absolute;
+    left: 602.55px;
+    top: 1051px;
+}
+
+.nossa-localiza-o {
+    color: #000000;
+    text-align: left;
+    font: 700 22.65px "Open Sans", sans-serif;
+    position: absolute;
+    left: 811.91px;
+    top: 953px;
+    width: 289.79px;
+    height: 41px;
+}
+
+.redes-sociais {
+    width: 721.28px;
+    height: 201px;
+    position: static;
+}
+
+.redes-sociais2 {
+    color: #000000;
+    text-align: left;
+    font: 700 35.07px "Open Sans", sans-serif;
+    position: absolute;
+    left: 810.64px;
+    top: 1613px;
+    width: 297.45px;
+}
+
+.zap-1:hover,
+.logo-git-hub-1:hover,
+.logo-email-1:hover,
+.logo-instagram-1:hover,
+.logo-linkedin-1:hover {
+    transform: scale(1.4, 1.4);
+}
+
+.zap-1 {
+    width: 127.66px;
+    height: 75px;
+    position: absolute;
+    left: 589.79px;
+    top: 1739px;
+    transition: transform 1s ease;
+}
+
+.logo-git-hub-1 {
+    width: 76.6px;
+    height: 60px;
+    position: absolute;
+    left: 1234.47px;
+    top: 1752px;
+    transition: transform 1s ease;
+
+}
+
+.logo-email-1 {
+    width: 93.19px;
+    height: 73px;
+    position: absolute;
+    left: 763.4px;
+    top: 1741px;
+    transition: transform 1s ease;
+
+}
+
+.logo-instagram-1 {
+    width: 71.49px;
+    height: 57.27px;
+    position: absolute;
+    left: 924.26px;
+    top: 1752px;
+    transition: transform 1s ease;
+
+}
+
+.logo-linkedin-1 {
+    width: 71.86px;
+    height: 58.91px;
+    position: absolute;
+    left: 1081.28px;
+    top: 1752px;
+    transition: transform 1s ease;
+
+}
+
+.telefone-55-xx-9-xxxx-xxxx {
+    color: #000000;
+    text-align: left;
+    position: absolute;
+    left: 1101.7px;
+    top: 727px;
+    width: 395.39px;
+}
+
+.telefone-55-xx-9-xxxx-xxxx-span {
+    color: #000000;
+    font: 600 22.98px "Open Sans", sans-serif;
+}
+
+.telefone-55-xx-9-xxxx-xxxx-span2 {
+    color: #000000;
+    font: 400 20.44px "Open Sans", sans-serif;
+}

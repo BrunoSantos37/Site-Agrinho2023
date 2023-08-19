@@ -1,0 +1,845 @@
+.p-gina-home,
+.p-gina-home * {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.p-gina-home {
+  background: #ffffff;
+  width: 1919px;
+  height: 3757px;
+  position: relative;
+}
+
+.group-7 {
+  width: 1919px;
+  height: 2847px;
+  position: static;
+}
+
+.rectangle-23 {
+  width: 1919px;
+  height: 641px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.logo-learn-bridge-3 {
+  width: 70.18px;
+  height: 57.97px;
+  position: absolute;
+  left: 422.33px;
+  top: 31px;
+}
+
+.principal {
+  color: #fd0166;
+  text-align: left;
+  font: 400 24px "Open Sans", sans-serif;
+  position: absolute;
+  left: 540.99px;
+  top: 57px;
+  width: 190.11px;
+  height: 47px;
+}
+
+.reclama-es {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1325.69px;
+  top: 54px;
+  width: 210.53px;
+  height: 47px;
+  /* transition: transform 1s ease;  */
+
+}
+
+.reclama-es:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+}
+
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1061.57px;
+  top: 51px;
+  width: 190.11px;
+  height: 47px;
+  transition: transform 0.5s ease;
+
+}
+
+
+.contato:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+
+}
+
+.o-futuro-chegou {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Tajawal', sans-serif;
+  color: #ffffff;
+  text-align: left;
+  font: 400 78.49px "Squada One", sans-serif;
+  position: absolute;
+  left: 496px;
+  top: 321px;
+  width: 660px;
+  height: 118px;
+}
+
+.design-constucao-site-branco-1-1 {
+  width: 390.43px;
+  height: 254px;
+  position: absolute;
+  left: 1157.27px;
+  top: 238px;
+}
+
+.sobre-n-s {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Open Sans", sans-serif;
+  position: absolute;
+  left: 780.87px;
+  top: 54px;
+  width: 190.11px;
+  height: 47px;
+  transition: transform 0.5s ease;
+
+}
+
+.sobre-n-s:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+
+}
+
+.elemento-1 {
+  border-radius: 325px;
+  width: 888.05px;
+  height: 643px;
+  position: absolute;
+  left: 945.46px;
+  top: 31px;
+}
+
+.rectangle-33 {
+  background: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  width: 1919px;
+  height: 409px;
+  position: absolute;
+  left: 0px;
+  top: 844px;
+}
+
+.qualidades {
+  width: 1919px;
+  height: 324px;
+  position: static;
+}
+
+.rectangle-34 {
+  width: 1919px;
+  height: 318px;
+  position: absolute;
+  left: 0px;
+  top: 1804px;
+}
+
+.valores-acess-veis {
+  color: #000000;
+  text-align: left;
+  font: 400 21.59px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 523.13px;
+  top: 1962px;
+  width: 234.77px;
+}
+
+.suporte {
+  color: #000000;
+  text-align: left;
+  font: 400 21.59px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1263.17px;
+  top: 1962px;
+  width: 102.07px;
+}
+
+.alta-qualidade {
+  color: #000000;
+  text-align: left;
+  font: 400 21.59px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 877.84px;
+  top: 1962px;
+  width: 186.29px;
+}
+
+.oferecemos-suporte-24-horas-para-d-vidas-e-ajuda {
+  color: #646464;
+  text-align: left;
+  font: 400 17.81px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1178.96px;
+  top: 1996px;
+  width: 330.47px;
+  height: 46.19px;
+}
+
+.websites-profissionais-e-criativos {
+  color: #646464;
+  text-align: left;
+  font: 400 17.81px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 881.67px;
+  top: 1996px;
+  width: 250.08px;
+}
+
+.o-melhor-pre-o {
+  color: #535353;
+  text-align: left;
+  font: 400 17.81px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 558.86px;
+  top: 1996px;
+  width: 178.63px;
+}
+
+.simbolo-suporte-1 {
+  width: 173px;
+  height: 138px;
+  position: absolute;
+  left: 1222px;
+  top: 1835px;
+}
+
+.simbolo-profissional-1 {
+  width: 146.73px;
+  height: 227px;
+  position: absolute;
+  left: 885.5px;
+  top: 1798px;
+}
+
+.preco-baixo-1 {
+  width: 145.46px;
+  height: 177px;
+  position: absolute;
+  left: 581.82px;
+  top: 1804px;
+}
+
+.rectangle-91 {
+  background: #d9d9d900;
+  border-width: 5px;
+  border-style: solid;
+  border-image: linear-gradient(123.14deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  border-image-slice: 1;
+  width: 110px;
+  height: 88px;
+  position: absolute;
+  left: 586px;
+  top: 1860px;
+}
+
+.rectangle-92 {
+  background: #d9d9d900;
+  border-width: 5px;
+  border-style: solid;
+  border-image: linear-gradient(123.14deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  border-image-slice: 1;
+  width: 110px;
+  height: 88px;
+  position: absolute;
+  left: 907px;
+  top: 1854px;
+}
+
+.learn-bridge {
+  color: linear-gradient(270deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  text-align: left;
+  font: 400 59.55px "Squada One", sans-serif;
+  position: absolute;
+  left: 811.49px;
+  top: 713px;
+  width: 330.47px;
+}
+
+.rectangle-86 {
+  background: #d9d9d9;
+  width: 378.95px;
+  height: 441px;
+  position: absolute;
+  left: 598.41px;
+  top: 2182px;
+}
+
+.rectangle-87 {
+  background: linear-gradient(180deg,
+      rgba(255, 255, 255, 1) 65.76679348945618%,
+      rgba(0, 0, 0, 0.55) 100%);
+  width: 1917.72px;
+  height: 785px;
+  position: absolute;
+  left: 1.28px;
+  top: 2062px;
+}
+
+.se-voc-est-buscando-um-site-de-qualidade-a-um-pre-o-acess-vel-n-o-procure-mais-learnbridge-a-solu-o-ideal-para-voc-junte-se-a-n-s-nessa-jornada-para-impulsionar-o-seu-neg-cio-e-alcan-ar-o-sucesso-online-entre-em-contato-conosco-hoje-mesmo-e-descubra-como-podemos-ajud-lo-a-criar-uma-presen-a-digital-impactante-estamos-prontos-para-transformar-suas-ideias-em-um-site-incr-vel-com-a-paix-o-e-o-talento-dos-jovens-estudantes-que-fazem-parte-da-nossa-equipe-vamos-construir-o-futuro-juntos-confira-nossos-pre-os {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20.13px "Open Sans", sans-serif;
+  position: absolute;
+  left: 451.68px;
+  top: 895px;
+  width: 1148.34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pre-os {
+  width: 919.95px;
+  height: 351px;
+  position: static;
+}
+
+.design-programa-o {
+  width: 256.46px;
+  height: 347px;
+  position: static;
+}
+
+.rectangle-30 {
+  background: #f5f5f5;
+  border-radius: 26px;
+  width: 256.46px;
+  height: 347px;
+  position: absolute;
+  left: 830.63px;
+  top: 1353px;
+  box-shadow: 4px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+
+.design-programa-o2 {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  text-align: left;
+  font: 400 28.25px "Squada One", sans-serif;
+  position: absolute;
+  left: 875.29px;
+  top: 1380px;
+  width: 183.73px;
+  height: 88.7px;
+}
+
+.rectangle-31 {
+  background: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  border-radius: 48px;
+  width: 58.69px;
+  height: 6px;
+  position: absolute;
+  left: 930.15px;
+  top: 1491px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.r-199-90-hora {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  text-align: left;
+  font: 400 15.93px "Squada One", sans-serif;
+  position: absolute;
+  left: 911.01px;
+  top: 1515px;
+  width: 105.9px;
+}
+
+.front-end-completo-constru-o-da-interface-e-programa-o {
+  color: rgba(0, 0, 0, 0.55);
+  text-align: left;
+  font: 400 14.58px "Open Sans", sans-serif;
+  position: absolute;
+  left: 886.77px;
+  top: 1544px;
+  width: 187.56px;
+}
+
+.programa-o {
+  width: 256.46px;
+  height: 347px;
+  position: static;
+}
+
+.rectangle-302 {
+  background: #f5f5f5;
+  border-radius: 26px;
+  width: 256.46px;
+  height: 347px;
+  position: absolute;
+  left: 1162.37px;
+  top: 1350px;
+  box-shadow: 4px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+
+.programa-o2 {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  text-align: left;
+  font: 400 30.64px "Squada One", sans-serif;
+  position: absolute;
+  left: 1200.65px;
+  top: 1419px;
+  width: 197.77px;
+}
+
+.rectangle-312 {
+  background: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  border-radius: 48px;
+  width: 58.69px;
+  height: 6px;
+  position: absolute;
+  left: 1261.9px;
+  top: 1488px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.r-149-90-hora {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  text-align: left;
+  font: 400 15.93px "Squada One", sans-serif;
+  position: absolute;
+  left: 1245.31px;
+  top: 1512px;
+  width: 105.9px;
+}
+
+.front-end-da-p-gina-a-programa-o-de-seu-design-pronto {
+  color: rgba(0, 0, 0, 0.55);
+  text-align: left;
+  font: 400 14.58px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1213.41px;
+  top: 1557px;
+  width: 187.56px;
+}
+
+.design {
+  width: 256.46px;
+  height: 347px;
+  position: static;
+}
+
+.rectangle-303 {
+  background: #f5f5f5;
+  border-radius: 26px;
+  width: 256.46px;
+  height: 347px;
+  position: absolute;
+  left: 498.89px;
+  top: 1354px;
+  box-shadow: 4px 4px 19px 0px rgba(0, 0, 0, 0.25);
+}
+
+.design2 {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  text-align: left;
+  font: 400 33.4px "Squada One", sans-serif;
+  position: absolute;
+  left: 575.44px;
+  top: 1417px;
+  width: 108.08px;
+  height: 32px;
+}
+
+.rectangle-313 {
+  background: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  border-radius: 48px;
+  width: 58.69px;
+  height: 6px;
+  position: absolute;
+  left: 598.41px;
+  top: 1489px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.r-99-90-hora {
+  color: linear-gradient(90deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 101, 1) 100%);
+  text-align: left;
+  font: 400 15.93px "Squada One", sans-serif;
+  position: absolute;
+  left: 574.17px;
+  top: 1516px;
+  width: 100.8px;
+}
+
+.desenho-e-design-da-interface {
+  color: rgba(0, 0, 0, 0.55);
+  text-align: left;
+  font: 400 14.58px "Open Sans", sans-serif;
+  position: absolute;
+  left: 561.41px;
+  top: 1565px;
+  width: 159.49px;
+}
+
+.design-sem-nome-1 {
+  width: 446.58px;
+  height: 439px;
+  position: absolute;
+  left: 977.36px;
+  top: 2184px;
+}
+
+.group-6 {
+  width: 1919px;
+  height: 910px;
+  position: static;
+}
+
+.rectangle-35 {
+  background: linear-gradient(89.94deg,
+      rgba(28, 1, 109, 1) 0.8521945215761662%,
+      rgba(253, 1, 101, 1) 100%);
+  width: 1917.72px;
+  height: 336px;
+  position: absolute;
+  left: 0.28px;
+  top: 2847px;
+}
+
+.contrata {
+  width: 865.78px;
+  height: 237px;
+  position: static;
+}
+
+.rectangle-38 {
+  background: #ffffff00;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 799.65px;
+  height: 190.36px;
+  position: absolute;
+  left: 638.92px;
+  top: 2942.64px;
+}
+
+.rectangle-37 {
+  background: #ffffff00;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 799.65px;
+  height: 190.36px;
+  position: absolute;
+  left: 604.85px;
+  top: 2919.95px;
+}
+
+.rectangle-36 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 3px;
+  width: 799.65px;
+  height: 190.36px;
+  position: absolute;
+  left: 572.79px;
+  top: 2896px;
+}
+
+.ei-estamos-recrutando-jovens-estudantes-que-obt-m-conhecimento-front-end-ou-vontade-de-aprender-saiba-mais {
+  color: #000000;
+  text-align: left;
+  font: 400 20.23px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 675.54px;
+  top: 2943px;
+  width: 668px;
+  height: 158.03px;
+}
+
+.botao {
+  width: 161.79px;
+  height: 39px;
+  position: static;
+}
+
+.rectangle-39 {
+  background: linear-gradient(180deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  border-radius: 63px;
+  width: 161.79px;
+  height: 39px;
+  position: absolute;
+  left: 1073.9px;
+  top: 3016px;
+  border: none;
+  transition: transform 1s ease-in-out;
+
+}
+
+.rectangle-39:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+  transition: 2000ms;
+}
+
+.saiba-mais:hover {
+  cursor: pointer;
+  transform: scale(1.4, 1.4);
+  transition: 2000ms;
+}
+
+.saiba-mais {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20.23px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 1091.75px;
+  top: 3025px;
+  width: 130.06px;
+}
+
+.footer {
+  width: 1917.72px;
+  height: 289px;
+  position: static;
+}
+
+.container-footer {
+  background: linear-gradient(91.71deg,
+      rgba(34, 1, 136, 1) 45.79302966594696%,
+      rgba(253, 1, 101, 1) 82.8125%);
+  width: 1917.72px;
+  height: 289px;
+  position: absolute;
+  left: -1px;
+  top: 3468px;
+}
+
+.copyright-2023-learn-bridge-todos-os-direitos-reservados {
+  color: #959595;
+  text-align: left;
+  font: 400 15.05px "Open Sans", sans-serif;
+  position: absolute;
+  left: 728.35px;
+  top: 3724.6px;
+  width: 555.94px;
+  height: 25.45px;
+}
+
+.logo-learn-bridge {
+  width: 130.06px;
+  height: 107px;
+  position: absolute;
+  left: 426.15px;
+  top: 3554px;
+}
+
+.footer-company {
+  width: 102.01px;
+  height: 103px;
+  position: static;
+}
+
+.company {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.32px "Open Sans", sans-serif;
+  position: absolute;
+  left: 649.29px;
+  top: 3553px;
+  width: 102.01px;
+}
+
+.sobre-n-s2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 654.39px;
+  top: 3635px;
+  width: 96.91px;
+}
+
+.principal2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 654.39px;
+  top: 3597px;
+  width: 80.33px;
+}
+
+.footer-termos {
+  width: 207.84px;
+  height: 108px;
+  position: static;
+}
+
+.termos {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.35px "Open Sans", sans-serif;
+  position: absolute;
+  left: 957.86px;
+  top: 3548px;
+  width: 82.88px;
+}
+
+.pol-tica-de-privacidade {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 956.59px;
+  top: 3597px;
+  width: 207.84px;
+}
+
+.termos-e-condi-es {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 957.86px;
+  top: 3635px;
+  width: 184.89px;
+}
+
+.footer-suporte {
+  width: 122.41px;
+  height: 108px;
+  position: static;
+}
+
+.suporte2 {
+  color: #afafaf;
+  text-align: left;
+  font: 400 16.35px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1309.79px;
+  top: 3548px;
+  width: 91.81px;
+}
+
+.reclama-es2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1309.79px;
+  top: 3635px;
+  width: 121.13px;
+}
+
+.contato2 {
+  color: #7a7777;
+  text-align: left;
+  font: 400 15.61px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1308.51px;
+  top: 3597px;
+  width: 73.95px;
+}
+
+.group-1 {
+  width: 791.19px;
+  height: 90px;
+  position: static;
+}
+
+.rectangle-40 {
+  position: absolute;
+  left: 577.89px;
+  top: 3275px;
+  overflow: visible;
+}
+
+.learn-bridge2 {
+  color: #fd0165;
+  text-align: left;
+  font: 400 43.83px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 957.22px;
+  top: 3291px;
+  width: 341.72px;
+}
+
+.vem-ser {
+  color: #000000;
+  text-align: left;
+  font: 400 43.83px "Hammersmith One", sans-serif;
+  position: absolute;
+  left: 712.41px;
+  top: 3291px;
+  width: 210.39px;
+}
+
+.rectangle-912 {
+  background: #d9d9d900;
+  border-width: 5px;
+  border-style: solid;
+  border-image: linear-gradient(123.14deg,
+      rgba(28, 1, 109, 1) 0%,
+      rgba(253, 1, 102, 1) 100%);
+  border-image-slice: 1;
+  width: 110px;
+  height: 88px;
+  position: absolute;
+  left: 1249px;
+  top: 1849px;
+}
+
+.design-constucao-site-2 {
+  width: 577.04px;
+  height: 380px;
+  position: absolute;
+  left: 430px;
+  top: 2225px;
+}

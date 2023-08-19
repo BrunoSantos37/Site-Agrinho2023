@@ -1,0 +1,317 @@
+.reclama-es,
+.reclama-es * {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.reclama-es {
+    background: linear-gradient(179.87deg,
+            rgba(28, 1, 109, 1) 21.35416716337204%,
+            rgba(253, 1, 102, 1) 100%);
+    width: 1917px;
+    height: 1526px;
+    position: relative;
+}
+
+.container {
+    width: 1918px;
+    height: 1527px;
+    position: static;
+}
+
+.rectangle-88 {
+    background: #ffffff;
+    border-radius: 69px;
+    width: 920.13px;
+    height: 680px;
+    position: absolute;
+    left: 513.87px;
+    top: 352px;
+}
+
+.footer {
+    width: 1918px;
+    height: 1527px;
+    position: static;
+}
+
+.container-footer {
+    background: linear-gradient(91.71deg,
+            rgba(34, 1, 136, 1) 45.79302966594696%,
+            #fd0165 100%);
+    width: 1916.73px;
+    height: 289px;
+    position: absolute;
+    left: -1px;
+    top: 1238px;
+}
+
+.copyright-2023-learn-bridge-todos-os-direitos-reservados {
+    color: #959595;
+    text-align: left;
+    font: 400 15.05px "Open Sans", sans-serif;
+    position: absolute;
+    left: 727.97px;
+    top: 1494.6px;
+    width: 555.65px;
+    height: 25.45px;
+}
+
+.digite-sugest-es-ou-reclama-es {
+    color: #000000;
+    text-align: left;
+    font: 700 19.31px "Open Sans", sans-serif;
+    position: absolute;
+    left: 17px;
+    top: 17px;
+    width: 483px;
+    height: 31px;
+}
+
+.header {
+    width: 1916.73px;
+    height: 480px;
+    position: static;
+}
+
+.header-container {
+    background: #ffffff;
+    width: 1916.73px;
+    height: 146px;
+    position: absolute;
+    left: 0.27px;
+    top: 0px;
+}
+
+.reclama-es2 {
+    color: #fd0165;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 1324.4px;
+    top: 66px;
+    width: 200.08px;
+}
+
+.contato {
+    color: #000000;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 1091.18px;
+    top: 66px;
+    width: 121.07px;
+    transition: transform 0.5s ease;
+}
+
+.logo-learn-bridge {
+    width: 70.09px;
+    height: 79px;
+    position: absolute;
+    left: 424.66px;
+    top: 34px;
+}
+
+.principal:hover,
+.sobre-n-s:hover,
+.contato:hover {
+    transform: scale(1.4, 1.4);
+}
+
+.principal {
+    color: #000000;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 594.15px;
+    top: 66px;
+    width: 189.89px;
+    height: 47px;
+    transition: transform 0.5s ease;
+}
+
+.sobre-n-s {
+    color: #000000;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 822.27px;
+    top: 66px;
+    width: 154.2px;
+    transition: transform 0.5s ease;
+
+}
+
+.reclame-aqui {
+    color: #000000;
+    text-align: left;
+    font: 700 43.83px "Open Sans", sans-serif;
+    position: absolute;
+    left: 767.47px;
+    top: 420px;
+    width: 379.78px;
+}
+
+.rectangle-89 {
+    background: #ffffff00;
+    border-radius: 26px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 7px;
+    width: 523.79px;
+    height: 292px;
+    position: absolute;
+    left: 703.75px;
+    top: 524px;
+    padding: 15px;
+}
+
+.rectangle-90 {
+    background: linear-gradient(90.27deg,
+            rgba(28, 1, 109, 1) 0%,
+            rgba(253, 1, 102, 1) 100%);
+    border-radius: 26px;
+    width: 330.07px;
+    height: 66px;
+    position: absolute;
+    left: 800.61px;
+    top: 897px;
+    border: none;
+    transition: transform 1s ease;
+}
+
+.rectangle-90:hover {
+    cursor: pointer;
+    transform: scale(1.4, 1.4);
+}
+
+.logo-learn-bridge2 {
+    width: 129.99px;
+    height: 107px;
+    position: absolute;
+    left: 425.93px;
+    top: 1324px;
+}
+
+.footer-company {
+    width: 101.95px;
+    height: 103px;
+    position: static;
+}
+
+.company {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.32px "Open Sans", sans-serif;
+    position: absolute;
+    left: 648.95px;
+    top: 1323px;
+    width: 101.95px;
+}
+
+.sobre-n-s2 {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 654.05px;
+    top: 1405px;
+    width: 96.86px;
+
+}
+
+.principal2 {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 654.05px;
+    top: 1367px;
+    width: 80.29px;
+}
+
+.footer-termos {
+    width: 207.73px;
+    height: 108px;
+    position: static;
+}
+
+.termos {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.35px "Open Sans", sans-serif;
+    position: absolute;
+    left: 957.36px;
+    top: 1318px;
+    width: 82.84px;
+}
+
+.pol-tica-de-privacidade {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 956.09px;
+    top: 1367px;
+    width: 207.73px;
+}
+
+.termos-e-condi-es {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 957.36px;
+    top: 1405px;
+    width: 184.79px;
+}
+
+.footer-suporte {
+    width: 122.34px;
+    height: 108px;
+    position: static;
+}
+
+.suporte {
+    color: #afafaf;
+    text-align: left;
+    font: 400 16.35px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1309.1px;
+    top: 1318px;
+    width: 91.76px;
+}
+
+.reclama-es3 {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1309.1px;
+    top: 1405px;
+    width: 121.07px;
+}
+
+.contato2 {
+    color: #7a7777;
+    text-align: left;
+    font: 400 15.61px "Open Sans", sans-serif;
+    position: absolute;
+    left: 1307.83px;
+    top: 1367px;
+    width: 73.92px;
+}
+
+.enviar {
+    color: #ffffff;
+    text-align: left;
+    font: 700 19.31px "Open Sans", sans-serif;
+    position: absolute;
+    left: 919.13px;
+    top: 917px;
+    width: 77.74px;
+}

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/Imagens/logoLearnBridge.png" type="image/x-icon">
+  <link rel="stylesheet" href="/Css/form.css">
+  <title>Vaga LearnBridge</title>
+</head>
+
+<body>
+
+  <div class="ou">ou</div>
+
+  <div class="section-1">
+    <div class="container-formulario">
+      <div class="container-formulario2"></div>
+      <div class="preencha-o-formul-rio-abaixo">Preencha o formulário abaixo ou</div>
+
+      <div class="se-preferir-abaixe-o-curr-culo-e-mande-em-nosso-email">
+        Se preferir abaixe o currículo e mande em nosso email!
+      </div>
+      <a
+        href="mailto:bruno.candido.santos@escola.pr.gov.br?subject=Estou%20enviando%20meu%20currículo%20para%20a%20vaga%20de%20freelancer%20jovem%20na%20LearnBridge!%20Espero%20que%20gostem!:)&body=Aqui está!">
+        <input type="button" class="botao-nosso-email" value="Email">
+      </a>
+      <a href="/PDF/Currículo-FreelancerJovem.pdf" download="Currículo Freelancer Jovem.pdf">
+        <input type="button" class="botao-curriculo" value="Currículo">
+      </a>
+
+      <div class="container-dados-pessoais">
+
+        <input type="text" class="input-endereco" id="input_endereco" required placeholder="Endereço">
+        <label class="endere-o" for="input_endereco">Endereço</label>
+
+        <input type="tel" class="input-telefone" id="input_telefone" required placeholder="(XX)9-XXXX-XXXX">
+        <label class="telefone" for="input_telefone">Telefone</label>
+
+        <input type="email" class="input-email" id="input_email" required placeholder="email@domínio.com">
+        <label class="email2" for="input_email">Email</label>
+
+        <input type="date" class="input-data-de-nascimento" id="input_dataDeNascimento">
+        <label class="data-de-nascimento" for="input_dataDeNascimento">Data de Nascimento</label>
+
+        <input type="number" class="input-cpf" id="input_cpf" required placeholder="CPF">
+        <label class="cpf" for="input_cpf">CPF</label>
+
+        <input type="number" class="input-rg" id="input_rg" required placeholder="RG">
+        <label class="rg" for="input_rg">RG</label>
+
+        <input type="text" class="input-nome" id="input_nome" required placeholder="Nome Completo">
+        <label class="nome-completo" for="input_nome">Nome completo</label>
+
+      </div>
+
+      <div class="teste"></div>
+
+      <div class="escolaridade">
+        <div class="periodo">
+          <input type="radio" class="input-integral" name="periodo" id="integral">
+          <label for="integral" class="integral">Integral</label>
+
+          <input type="radio" class="input-noturno" name="periodo" id="noturno">
+          <label for="noturno" class="noturno">Noturno</label>
+
+          <input type="radio" class="input-vespertino" name="periodo" id="vespertino">
+          <label for="vespertino" class="vespertino">Vespertino</label>
+
+          <input type="radio" class="input-matutino" name="periodo" id="matutino">
+          <label for="matutino" class="matutino">Matutino</label>
+
+          <div class="se-estuda-escolha-o-per-odo">
+            Se estuda, escolha o período
+          </div>
+        </div>
+        <input type="radio" name="estudo" class="input-ensino-superior-completo" id="esc">
+        <label for="esc" class="ensino-superior-completo">Ensino Superior Completo </label>
+
+        <input type="radio" name="estudo" class="input-ensino-mediocompleto" id="emc">
+        <label for="emc" class="ensino-m-dio-completo">Ensino Médio Completo</label>
+
+        <input type="radio" name="estudo" class="input-ensino-fundamental-completo" id="efc">
+        <label for="efc" class="ensino-fundamental-completo">Ensino Fundamental Completo</label>
+
+        <input type="radio" name="estudo" class="input-cursando-ensino-superior" id="ces">
+        <label for="ces" class="cursando-ensino-superior">Cursando Ensino Superior</label>
+
+        <input type="radio" name="estudo" class="input-cursando-ensino-medio" id="cem">
+        <label for="cem" class="cursando-ensino-m-dio">Cursando Ensino Médio</label>
+
+        <input type="radio" name="estudo" class="input-cursando-ensino-fundamental" id="cef">
+        <label for="cef" class="cursando-ensino-fundamental">Cursando Ensino Fundamental</label>
+
+        <div class="escolaridade2">Escolaridade</div>
+      </div>
+      <div class="container-rede-sociais">
+        <input type="text" class="input-linkedin">
+        <div class="linkedin">Linkedin</div>
+        <input type="text" class="input-git-hub">
+        <div class="git-hub">GitHub</div>
+        <input type="text" class="input-idioma">
+        <div class="idioma">Idioma</div>
+      </div>
+      <div class="possui-experi-ncia">Possui experiência?</div>
+
+      <details class="saibaMais">
+        <summary>!!</summary>
+        <textarea type="text" id="text_areaExpe" cols="70" rows="2" required placeholder="Descreva Aqui.."></textarea>
+      </details>
+
+      <div class="container-habilidades">
+        <div class="habilidades">Habilidades</div>
+
+        <input type="checkbox" class="input_htmlCss" id="box_htmlCss">
+        <label class="html-css" for="box_htmlCss">Html/Css</label>
+
+        <input class="input_git" type="checkbox" id="box_git">
+        <label class="git" for="box_git">Git</label>
+
+        <input class="input_mysql" type="checkbox" id="box_mysql">
+        <label class="box_mysql">MySQL</label>
+
+        <input class="input_apis" type="checkbox" id="box_apis">
+        <label class="ap-is" for="box_apis">APIs</label>
+
+        <input class="input_vue" type="checkbox" id="box_vue">
+        <label class="vue" for="box_vue">Vue</label>
+
+        <input class="input_angular" type="checkbox" id="box_angular">
+        <label class="angular" for="box_angular">Angular</label>
+
+        <input class="input_react" type="checkbox" id="box_react">
+        <label class="react" for="box_react">React</label>
+
+        <input class="input_javascript" type="checkbox" id="box_javascript">
+        <label class="javascript" for="box_javascript">Javascript</label>
+
+        <input class="input_illustrator" type="checkbox" id="box_illustrator">
+        <label class="illustrator" for="box_illustrator">Illustrator</label>
+
+        <input class="input_adobeXd" type="checkbox" id="box_adobeXd">
+        <label class="adobe-xd" for="box_adobeXd">Adobe XD</label>
+
+        <input class="input_php" type="checkbox" id="box_php">
+        <label class="php" for="box_php">Php</label>
+
+        <input class="input_photoshop" type="checkbox" id="box_photoshop">
+        <label class="photoshop" for="box_photoshop">Photoshop</label>
+
+        <input class="input_naoSei" type="checkbox" id="box_naoSei">
+        <label class="naoSei" for="box_naoSei">Não Sei</label>
+
+        <input class="input_figma" type="checkbox" id="box_figma">
+        <label class="figma" for="box_figma">Figma</label>
+
+
+      </div>
+
+      <div class="cursos-link-certificado">Cursos-link(certificado)</div>
+      <input type="text" class="input-certificado-link">
+
+      <div class="cursos-arquivo-certificado">Cursos-arquivo(certificado)</div>
+      <input type="text" class="input-certificado-arquivo">
+
+      <div class="porque-deveriamos-te-contratar">
+        Porque deveriamos te contratar?
+      </div>
+      <input type="text" class="input-porque-te-contratar">
+      <div class="fale-sobre-voc">Fale sobre você</div>
+
+      <textarea type="text" class="input-fale-spbre-voce"></textarea>
+
+      <a href="agradecimentos.html">
+        <input type="submit" class="botaoEnviar" value="Enviar">
+      </a>
+
+    </div>
+  </div>
+  <div class="container-descricao">
+    <div class="container-descricao-vaga"></div>
+    <div class="learn-bridge">LearnBridge</div>
+    <a href="home.html">
+
+      <img class="logo-learn-bridge" src="/Imagens/logoLearnBridge.png" />
+    </a>
+    <div class="descri-o-da-vaga">Descrição da Vaga</div>
+
+    <div class="texto1">
+      <span><span class="texto2">Tipo de Contrato: Freelancer<br />Horário de Trabalho: 4 a 6 horas
+          por dia, 5 dias por semana<br />Localização: Trabalho remoto<br />Área
+          de Atuação: Programação e Design de Websites<br /></span><span class="texto3"><br />
+          Requisitos:<br /><br /></span><span class="texto4">Habilidades em programação e/ou design comprovadas por meio
+          de
+          projetos anteriores.<br />Capacidade de criar designs inovadores e
+          funcionais para sites.<br />Conhecimento em linguagens de programação
+          e ferramentas de design.<br />Interesse em aprender e se desenvolver
+          constantemente na área.<br /></span><span class="texto5"><br />
+          Responsabilidades:<br /><br /></span><span class="texto6">Desenvolver sites atraentes, intuitivos e
+          responsivos.<br />Criar
+          designs visualmente impactantes que atendam às necessidades do
+          cliente.<br />Colaborar com a equipe para entender os requisitos do
+          projeto.<br />Realizar atualizações e manutenções em sites
+          existentes.<br /></span><span class="texto7"><br />
+          Benefícios:<br /><br /></span><span class="texto8">Assistência Médica e Odontológica.<br />Vale-Alimentação ou
+          Vale-Refeição.<br />Auxílio Material para equipamentos e recursos de
+          trabalho.<br />Acesso a cursos e Programas de Desenvolvimento
+          Profissional.<br />Participação em Programas de Bem-Estar para
+          promover saúde mental e física.<br />Horário Flexível para melhor
+          equilíbrio entre trabalho e vida pessoal.<br />Clube de Descontos em
+          produtos e serviços.<br /><br /></span><span class="texto9">
+          Como se Candidatar:<br /><br />Se você está pronto para mergulhar em
+          projetos desafiadores, expandir suas habilidades e contribuir para a
+          criação de experiências digitais excepcionais, prencha seu currículo
+          ao ladov!<br /><br />
+          Estamos ansiosos para receber suas candidaturas e explorar o potencial
+          de trabalhar juntos para construir uma presença online incrível para
+          nossos clientes.</span></span>
+    </div>
+    <div class="texto10">
+      Estamos em busca de jovens talentosos e criativos para se juntarem à nossa
+      equipe como freelancers. Se você é apaixonado por programação, design e
+      está em busca de uma oportunidade flexível e enriquecedora, essa pode ser
+      a vaga perfeita para você!
+    </div>
+    <div class="titulo">
+      Oportunidade de Freelancer para Jovens em Programação e Design
+    </div>
+  </div>
+  <div class="footer">
+    <div class="container-footer"></div>
+    <div class="copy">
+      Copyright® 2023 LearnBridge. Todos os direitos reservados.
+    </div>
+    <img class="logo-learn-bridge2" src="/Imagens/logoLearnBridge.png" />
+    <div class="footer-company">
+      <a href="sobre.html/">
+
+        <div class="sobre-n-s">Sobre Nós</div>
+      </a>
+
+      <a href="home.html">
+        <div class="principal">Principal</div>
+      </a>
+      <div class="compania">COMPANY</div>
+    </div>
+    <div class="footer-termos">
+      <div class="termos-e-condi-es">Termos e condições</div>
+      <div class="pol-tica-de-privacidade">Política de Privacidade</div>
+      <div class="termos">TERMOS</div>
+    </div>
+    <div class="footer-suporte">
+
+      <a href="reclamacoes.html">
+        <div class="reclama-es">Reclamações</div>
+      </a>
+
+      <a href="contato.html">
+        <div class="contato">Contato</div>
+      </a>
+      <div class="suporte">SUPORTE</div>
+    </div>
+  </div>
+  </div>
+</body>
+
+</html>
